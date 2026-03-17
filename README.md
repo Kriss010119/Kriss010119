@@ -31,7 +31,7 @@
 **Languages:**
 - **English:** B2-C1 (Fluent)
 - **Russian:** Native
-- **Japanese:** A1 (Beginner)
+- **Japanese:** A2 (Beginner)
 
 
 ## 🚀 Featured Projects

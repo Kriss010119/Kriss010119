@@ -41,7 +41,7 @@ A full-stack route planning service that combines navigation with nearby events 
 - **Features:** Interactive map, multimodal route planning, event recommendations, responsive interface
 - **Tech Stack:** React, TypeScript, Vite, Leaflet, C#, .NET 8, PostgreSQL/PostGIS, Docker, RabbitMQ
 
-### 🧠 [VKQuiz](https://github.com/Kriss010119/VKQuiz)
+### 🧠 [VK-Quiz](https://github.com/Kriss010119/VK-Quiz)
 A web platform for creating, managing, and playing interactive quizzes with real-time multiplayer support.
 - **Features:** Quiz creation, game rooms, live leaderboard, participant management
 - **Tech Stack:** React, TypeScript, C#, ASP.NET Core, PostgreSQL, Docker
@@ -51,7 +51,7 @@ A dynamic web application for managing your personal book library. Built with **
 - **Features:** User authentication, real-time database, responsive design
 - **Tech Stack:** React, TypeScript, CSS Modules, Firebase Auth & Firestore
 
-### 📱 [BookShelf iOS](https://github.com/Kriss010119/BookShelfIOS)
+### 📱 [BookShelf iOS](https://github.com/Kriss010119/BookShelf-IOS)
 A native iOS application for managing your personal book collection with a modern SwiftUI interface.
 - **Features:** Book catalog, search, favorites, clean MVVM architecture
 - **Tech Stack:** Swift, SwiftUI, MVVM, Xcode

@@ -31,15 +31,30 @@
 **Languages:**
 - **English:** B2-C1 (Fluent)
 - **Russian:** Native
-- **Japanese:** A2 (Beginner)
+- **Japanese:** A2
 
 
 ## 🚀 Featured Projects
+
+### 🗺️ [InCity – Smart Route Planner](https://github.com/Kriss010119/InCity)
+A full-stack route planning service that combines navigation with nearby events to create personalized city routes.
+- **Features:** Interactive map, multimodal route planning, event recommendations, responsive interface
+- **Tech Stack:** React, TypeScript, Vite, Leaflet, C#, .NET 8, PostgreSQL/PostGIS, Docker, RabbitMQ
+
+### 🧠 [VKQuiz](https://github.com/Kriss010119/VKQuiz)
+A web platform for creating, managing, and playing interactive quizzes with real-time multiplayer support.
+- **Features:** Quiz creation, game rooms, live leaderboard, participant management
+- **Tech Stack:** React, TypeScript, C#, ASP.NET Core, PostgreSQL, Docker
 
 ### 📚 [BookShelf – Personal Library Manager](https://github.com/Kriss010119/BookShelf)
 A dynamic web application for managing your personal book library. Built with **React, TypeScript, and Firebase**.
 - **Features:** User authentication, real-time database, responsive design
 - **Tech Stack:** React, TypeScript, CSS Modules, Firebase Auth & Firestore
+
+### 📱 [BookShelf iOS](https://github.com/Kriss010119/BookShelfIOS)
+A native iOS application for managing your personal book collection with a modern SwiftUI interface.
+- **Features:** Book catalog, search, favorites, clean MVVM architecture
+- **Tech Stack:** Swift, SwiftUI, MVVM, Xcode
 
 ### 🌤️ [Weather Forecast Website](https://github.com/Kriss010119/Osina-Daria-Web-HW5-Forecast)
 A responsive weather application with API integration for real-time forecasts.

@@ -9,6 +9,7 @@
 | :--- | :--- | :--- |
 | **HSE Lyceum** | 2022–2024 | Mathematics and Informatics |
 | **HSE University** | 2024–2028 | Faculty of Computer Science, Software Engineering |
+| **Japan, AIU** | Summer 2026 | Study abroad |
 
 ## 🛠️ Technical Skills
 

@@ -76,19 +76,6 @@ A Python implementation of the classic Pacman game with custom ghost behavior lo
 > **Explore more of my work:** [View All Repositories](https://github.com/Kriss010119?tab=repositories)
 
 
-## 💼 Experience
-**Frontend Development Assistant** @ *HSE Mini Intensive Program* (Apr 2025)
-- Consulted over 15 high school students on web development fundamentals
-- Conducted code reviews and provided technical guidance
-
-**Teacher Assistant** @ *HSE "Introduction to Web Development"* (Sep 2025 - Mar 2026)
-- Homework evaluation and student consultations for 1st-year students
-
-**Intensives Completed:**
-- **HSE Summer React Intensive** - Studied React framework
-- **T-Bank Summer JS Intensive** - Mastered JavaScript, TypeScript, and React; developed BookShelf as final project
-
-
 ## 🌟 Interests & Goals
 - Frontend & Fullstack Development
 - UI/UX Design
